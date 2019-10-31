@@ -67,6 +67,10 @@
 #### [Setting Up the NUI Development Environment on Ubuntu](/application/dotnet/guides/nui/setup-ubuntu.md)
 #### [Getting Started](/application/dotnet/guides/nui/hello-world.md)
 #### [Layer](/application/dotnet/guides/nui/layer.md)
+#### [Layouting](/application/dotnet/guides/nui/layouting.md)
+##### [Linear Layout](/application/dotnet/guides/nui/linear-layout.md)
+##### [Grid Layout](/application/dotnet/guides/nui/grid-layout.md)
+##### [Flex Layout](/application/dotnet/guides/nui/flex-layout.md)
 #### UI Components
 ##### [Overview](/application/dotnet/guides/nui/ui-components.md)
 ##### [Styling UI Components](/application/dotnet/guides/nui/styling-controls-with-JSON.md)
