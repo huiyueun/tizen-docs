@@ -216,7 +216,7 @@ Each Layout has its own unique properties, such as `AlignmentType` in `LinearLay
 
 | [LinearLayout](./linear-layout.md) | [GridLayout](./grid-layout.md) | [FlexLayout](./flex-layout.md) |
 | -----------------------| --------------- | ------------ |
-| ![LinearLayout](./media/linear-Layout.png) | ![GridLayout](./media/grid-Layout.png)  | ![FlexLayout](./media/flex-Layout.png) |
+| ![LinearLayout](./media/linear-Layout.png){: width="100%" height="100%"} | ![GridLayout](./media/grid-Layout.png){: width="100%" height="100%"}  | ![FlexLayout](./media/flex-Layout.png){: width="100%" height="100%"} |
 | A linear box layout, automatically handling children laid out vertically or horizontally. | A grid box for the two-dimensional layout. | A flexible box layout, providing a more efficient way to lay out, align and distribute space among items in the container, even when their size is unknown or dynamic. |
 
 
